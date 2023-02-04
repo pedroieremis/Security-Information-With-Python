@@ -3,7 +3,7 @@
 Para obter o repositório localmente:
 
 ```shell
-git clone https://github.com/PedroIeremis/Security-Information-With-Python.git
+git clone https://github.com/pedroieremis/Security-Information-With-Python.git
 ```
 
 Acesse-o:
