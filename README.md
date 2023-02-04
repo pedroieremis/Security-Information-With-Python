@@ -1,4 +1,21 @@
-# Security_Information_With_Python
+## Security-Information-With-Python
 
-Programas e arquivos que os programas usam para realizar funcionalidades que remetem a segurança na internet
-Verifcação de IPs, verificação de possibilidades, comparador de hashs, criador de Hashs, criador de senha, codificadores e por aí vai...
+Para obter o repositório localmente:
+
+```shell
+git clone https://github.com/PedroIeremis/Security-Information-With-Python.git
+```
+
+Acesse-o:
+```shell
+cd Security-Information-With-Python
+```
+
+ E caso tenha o VsCode, use o comando abaixo para abrir a pasta direto no VsCode:
+ ```shell
+code .
+```
+
+---
+
+Este repositório há programas desenvolvidos em __Python__, para testes, uso e resolutivas de situações relacionadas a _Segurança da Informação_. Programas na maioria das vezes independentes uns dos outros, com funcionalidades úteis, como Criptografia de Conteúdo Simples, para XOR, Binário, ASCII etc. Também há programas simples de testes para Redes. Desenvolvido apenas durantes estudos.
